@@ -1,3 +1,7 @@
+/*
+ * Author: morena
+ */
+
 package com.xaba.spring.setting;
 
 import org.springframework.context.annotation.Bean;
